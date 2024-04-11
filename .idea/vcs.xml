@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CodeChef" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/CodeForces" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Data-Structures-and-Algorithm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GeeksForGeeks" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/HackerRank" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Minor Projects" vcs="Git" />
+  </component>
+</project>
